@@ -21,7 +21,7 @@ Form validation checks
 
 Basic exploratory testing
 
-🛠 Test Approach
+  Test Approach
 
 Smoke Testing
 
@@ -31,7 +31,7 @@ Regression Testing
 
 Exploratory Testing
 
-🖥 Test Environment
+  Test Environment
 
 Browser: Google Chrome (Latest)
 
@@ -51,13 +51,13 @@ Result: Application stable during functional testing
 
  Project Structure
 ecommerce-web-testing-sauce-demo/
-│
-├── 01_Test_Plan/
-├── 02_Test_Cases/
-│   └── Sauce_Demo_Test_Execution_Sheet.xlsx
-├── 03_Bug_Reports/
-├── 04_Test_Execution_Evidence/
-└── 05_Test_Summary_Report/
+
+    01_Test_Plan/
+    02_Test_Cases/
+      Sauce_Demo_Test_Execution_Sheet.xlsx
+    03_Bug_Reports/
+    04_Test_Execution_Evidence/
+    05_Test_Summary_Report/
 
  Key Skills Demonstrated:
 
